@@ -1,6 +1,6 @@
 # The Expert at the Card Table
 
-## _A treatise on the Science and Art of Manipulating Cards_
+## A treatise on the Science and Art of Manipulating Cards
 
 By S.W. Erdnase
 
