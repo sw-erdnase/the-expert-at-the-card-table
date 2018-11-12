@@ -7,4 +7,5 @@
 ## Card Table Artifice
 
 * [Professional Secrets](card-table-artifice/professional-secrets.md)
+* [Hold Outs](card-table-artifice/hold-outs.md)
 
