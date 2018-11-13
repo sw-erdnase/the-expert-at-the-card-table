@@ -10,5 +10,6 @@
 * [Hold Outs](card-table-artifice/hold-outs.md)
 * [Prepared Cards](card-table-artifice/prepared-cards.md)
 * [Confederacy](card-table-artifice/confederacy.md)
-* [Two methods of Shuffling](card-table-artifice/two-methods-of-shuffling.md)
+* [Two Methods of Shuffling](card-table-artifice/two-methods-of-shuffling.md)
+* [Primary Accomplishments](card-table-artifice/untitled.md)
 
