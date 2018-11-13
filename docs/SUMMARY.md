@@ -9,4 +9,5 @@
 * [Professional Secrets](card-table-artifice/professional-secrets.md)
 * [Hold Outs](card-table-artifice/hold-outs.md)
 * [Prepared Cards](card-table-artifice/prepared-cards.md)
+* [Confederacy](card-table-artifice/confederacy.md)
 
