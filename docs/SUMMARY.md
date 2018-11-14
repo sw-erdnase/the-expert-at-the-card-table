@@ -21,3 +21,7 @@
 * [Acquiring the Art](card-table-artifice/acquiring-the-art.md)
 * [Importance of Details](card-table-artifice/importance-of-details.md)
 
+## Technical Terms
+
+* [Untitled](technical-terms/untitled.md)
+
