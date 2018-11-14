@@ -3,25 +3,19 @@
 * [The Expert at the Card Table](README.md)
 * [Preface](preface.md)
 * [Introduction](introduction.md)
-
-## Card Table Artifice
-
-* [Professional Secrets](card-table-artifice/professional-secrets.md)
-* [Hold Outs](card-table-artifice/hold-outs.md)
-* [Prepared Cards](card-table-artifice/prepared-cards.md)
-* [Confederacy](card-table-artifice/confederacy.md)
-* [Two Methods of Shuffling](card-table-artifice/two-methods-of-shuffling.md)
-* [Primary Accomplishments](card-table-artifice/untitled.md)
-* [Possibilities of the "Blind"](card-table-artifice/possibilities-of-the-blind.md)
-* [Uniformity of Action](card-table-artifice/uniformity-of-action.md)
-* [Deportment](card-table-artifice/deportment.md)
-* [Display of Ability](card-table-artifice/display-of-ability.md)
-* [Greatest Single Accomplishment](card-table-artifice/greatest-single-accomplishment.md)
-* [Effect of Suspicion](card-table-artifice/effect-of-suspicion.md)
-* [Acquiring the Art](card-table-artifice/acquiring-the-art.md)
-* [Importance of Details](card-table-artifice/importance-of-details.md)
-
-## Technical Terms
-
-* [Untitled](technical-terms/untitled.md)
+* [Card Table Artifice](card-table-artifice-1/README.md)
+  * [Professional Secrets](card-table-artifice-1/professional-secrets.md)
+  * [Hold Outs](card-table-artifice-1/hold-outs.md)
+  * [Prepared Cards](card-table-artifice-1/prepared-cards.md)
+  * [Confederacy](card-table-artifice-1/confederacy.md)
+  * [Two Methods of Shuffling](card-table-artifice-1/two-methods-of-shuffling.md)
+  * [Primary Accomplishments](card-table-artifice-1/untitled.md)
+  * [Possibilities of the "Blind"](card-table-artifice-1/possibilities-of-the-blind.md)
+  * [Uniformity of Action](card-table-artifice-1/uniformity-of-action.md)
+  * [Deportment](card-table-artifice-1/deportment.md)
+  * [Display of Ability](card-table-artifice-1/display-of-ability.md)
+  * [Greatest Single Accomplishment](card-table-artifice-1/greatest-single-accomplishment.md)
+  * [Effect of Suspicion](card-table-artifice-1/effect-of-suspicion.md)
+  * [Acquiring the Art](card-table-artifice-1/acquiring-the-art.md)
+  * [Importance of Details](card-table-artifice-1/importance-of-details.md)
 
