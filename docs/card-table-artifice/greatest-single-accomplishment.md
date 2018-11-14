@@ -1,0 +1,4 @@
+# Greatest Single Accomplishment
+
+If requested to determine from what single artifice the greatest advantage is derived we would unhesitatingly decide in favor of bottom dealing. But skill in that respect would be useless without knowledge of the bottom cards, and to retain them necessitates the ability to "blind" shuffle. Again the bottom cards may be lost by the cut, hence the necessity of "blind" cutting. Proficiency in palming often takes the place of an ally to "blind" cut, but palming in itself is much more difficult to acquire than "blind" cutting, and is practiced only when the player is alone, and after other ruses, which are less risky, have proven unsuccessful. Hence it will be seen that proficiency in one artifice does not finish the education of the professional card player, and almost every ruse in the game is more or less dependent upon another one.
+
