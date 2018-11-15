@@ -23,4 +23,5 @@
     * [Position for Shuffle](card-table-artifice/erdnase-system-for-blind-shuffles/position-for-shuffle.md)
     * [Blind Shuffles](card-table-artifice/erdnase-system-for-blind-shuffles/blind-shuffles.md)
     * [I. To Retain Top Stock](card-table-artifice/erdnase-system-for-blind-shuffles/i.-to-retain-top-stock.md)
+    * [II.To Retain Top Stock and Shuffle Whole Deck](card-table-artifice/erdnase-system-for-blind-shuffles/ii.to-retain-top-stock-and-shuffle-whole-deck.md)
 
