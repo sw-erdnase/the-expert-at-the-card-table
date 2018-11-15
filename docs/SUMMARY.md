@@ -21,5 +21,5 @@
   * [Technical Terms](card-table-artifice/technical-terms.md)
   * [Erdnase System for Blind Shuffles](card-table-artifice/erdnase-system-for-blind-shuffles/README.md)
     * [Position for Shuffle](card-table-artifice/erdnase-system-for-blind-shuffles/position-for-shuffle.md)
-* [Blind Shuffles](blind-shuffles.md)
+    * [Blind Shuffles](card-table-artifice/erdnase-system-for-blind-shuffles/blind-shuffles.md)
 
