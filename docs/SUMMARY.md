@@ -18,5 +18,8 @@
   * [Effect of Suspicion](card-table-artifice/effect-of-suspicion.md)
   * [Acquiring the Art](card-table-artifice/acquiring-the-art.md)
   * [Importance of Details](card-table-artifice/importance-of-details.md)
-* [Technical Terms](technical-terms.md)
+  * [Technical Terms](card-table-artifice/technical-terms.md)
+  * [Erdnase System for Blind Shuffles](card-table-artifice/erdnase-system-for-blind-shuffles/README.md)
+    * [Position for Shuffle](card-table-artifice/erdnase-system-for-blind-shuffles/position-for-shuffle.md)
+* [Blind Shuffles](blind-shuffles.md)
 
