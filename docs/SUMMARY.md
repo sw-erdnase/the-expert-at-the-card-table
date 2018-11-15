@@ -18,3 +18,5 @@
   * [Effect of Suspicion](card-table-artifice/effect-of-suspicion.md)
   * [Acquiring the Art](card-table-artifice/acquiring-the-art.md)
   * [Importance of Details](card-table-artifice/importance-of-details.md)
+* [Technical Terms](technical-terms.md)
+
