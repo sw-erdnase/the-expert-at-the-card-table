@@ -24,4 +24,6 @@
     * [Blind Shuffles](card-table-artifice/erdnase-system-for-blind-shuffles/blind-shuffles.md)
     * [I. To Retain Top Stock](card-table-artifice/erdnase-system-for-blind-shuffles/i.-to-retain-top-stock.md)
     * [II.To Retain Top Stock and Shuffle Whole Deck](card-table-artifice/erdnase-system-for-blind-shuffles/ii.to-retain-top-stock-and-shuffle-whole-deck.md)
+    * [III. To Retain the Bottom Stock and Shuffle Whole Deck](card-table-artifice/erdnase-system-for-blind-shuffles/iii.-to-retain-the-bottom-stock-and-shuffle-whole-deck.md)
+  * [Erdnase System of Blind Riffles and Cuts](card-table-artifice/erdnase-system-of-blind-riffles-and-cuts.md)
 

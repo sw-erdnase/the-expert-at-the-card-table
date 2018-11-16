@@ -1,0 +1,6 @@
+# Erdnase System of Blind Riffles and Cuts
+
+The riffle, i. e., shuffling the cards on the table by springing the ends of two packets into each other, is by far the more prevalent method in use among regular card players. The possibilities of the riffle, for all practical purposes at the card table, are limited to retaining the top or bottom stock; but in these respects it is quite equal to the hand shuffle as a blind, and the apparent process of thoroughly mixing the cards may be indulged in to any extent without disturbing the order of the top or bottom portion, as the case may be. The order may be arranged to a very limited extent, but the expert who uses the riffle cares little for stocking. His usual procedure is to place the desired cards at the bottom and retain them there. However, if the opportunity has occurred for arranging a top stock, it can be retained during the riffle just as easily. A blind cut should always be alternated with each, or every second riffle.
+
+
+
