@@ -31,4 +31,5 @@
   * [Blind Cuts](card-table-artifice/blind-cuts/README.md)
     * [I. To Retain Bottom Stock. Top Losing One Card](card-table-artifice/blind-cuts/i.-to-retain-bottom-stock.-top-losing-one-card.md)
     * [II. To Retain the Complete Stock](card-table-artifice/blind-cuts/ii.-to-retain-the-complete-stock.md)
+    * [III. To Retain the Top Stock](card-table-artifice/blind-cuts/iii.-to-retain-the-top-stock.md)
 
