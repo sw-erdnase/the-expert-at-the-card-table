@@ -28,4 +28,7 @@
   * [Erdnase System of Blind Riffles and Cuts](card-table-artifice/erdnase-system-of-blind-riffles-and-cuts/README.md)
     * [I. To Retain the Top Stock](card-table-artifice/erdnase-system-of-blind-riffles-and-cuts/i.-to-retain-the-top-stock.md)
     * [II. To Retain the Bottom Stock](card-table-artifice/erdnase-system-of-blind-riffles-and-cuts/ii.-to-retain-the-bottom-stock.md)
+  * [Blind Cuts](card-table-artifice/blind-cuts/README.md)
+    * [I. To Retain Bottom Stock. Top Losing One Card](card-table-artifice/blind-cuts/i.-to-retain-bottom-stock.-top-losing-one-card.md)
+    * [II. To Retain the Complete Stock](card-table-artifice/blind-cuts/ii.-to-retain-the-complete-stock.md)
 
