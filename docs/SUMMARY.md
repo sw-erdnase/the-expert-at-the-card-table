@@ -43,4 +43,5 @@
     * [II. This is located by the jog](card-table-artifice/to-indicate-the-location-for-the-cut/ii.-this-is-located-by-the-jog.md)
     * [III. This is located by the crimp](card-table-artifice/to-indicate-the-location-for-the-cut/iii.-this-is-located-by-the-crimp.md)
     * [IV. This is located by the jog](card-table-artifice/to-indicate-the-location-for-the-cut/iv.-this-is-located-by-the-jog.md)
+  * [Bottom Dealing](card-table-artifice/bottom-dealing.md)
 
