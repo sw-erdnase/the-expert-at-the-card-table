@@ -1,4 +1,4 @@
-# The Expert at the Card Table
+# Artifice Ruse and Subterfuge at the Card Table
 
 ## A treatise on the Science and Art of Manipulating Cards
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Expert at the Card Table](README.md)
+* [Artifice Ruse and Subterfuge at the Card Table](README.md)
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [Card Table Artifice](card-table-artifice/README.md)
