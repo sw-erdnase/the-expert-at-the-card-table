@@ -37,4 +37,6 @@
   * [Fancy Blind Cuts](card-table-artifice/fancy-blind-cuts/README.md)
     * [I. To Retain the Complete Stock](card-table-artifice/fancy-blind-cuts/i.-to-retain-the-complete-stock.md)
     * [II. To Retain the Complete Stock](card-table-artifice/fancy-blind-cuts/ii.-to-retain-the-complete-stock.md)
+  * [One-Handed Fancy True Cut](card-table-artifice/one-handed-fancy-true-cut.md)
+  * [To Indicate the Location for the Cut](card-table-artifice/to-indicate-the-location-for-the-cut.md)
 
