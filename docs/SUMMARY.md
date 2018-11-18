@@ -36,4 +36,5 @@
     * [V. To Retain Bottom Stock. Riffle II and Cut IV](card-table-artifice/blind-cuts/v.-to-retain-bottom-stock.-riffle-ii-and-cut-iv.md)
   * [Fancy Blind Cuts](card-table-artifice/fancy-blind-cuts/README.md)
     * [I. To Retain the Complete Stock](card-table-artifice/fancy-blind-cuts/i.-to-retain-the-complete-stock.md)
+    * [II. To Retain the Complete Stock](card-table-artifice/fancy-blind-cuts/ii.-to-retain-the-complete-stock.md)
 
