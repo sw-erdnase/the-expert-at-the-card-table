@@ -10,7 +10,7 @@ Hold the deck in the manner described for the Shuffle. Seize about half the deck
 
 ![Fig. 2](../../img/fig002.svg)
 
-Then seize with the right hand all the cards beneath the in-job card, which protrudes over the little finger of the left hand, and throw them in one packet on top. When seizing the under cards beneath the in-jog, its location is found by the right thumb solely by the sense of touch, and without the least hesitation or difficulty. The in-jog card is held in position by the little ginger, and is concealed by the cards on top of it.
+Then seize with the right hand all the cards beneath the in-jog card, which protrudes over the little finger of the left hand, and throw them in one packet on top. When seizing the under cards beneath the in-jog, its location is found by the right thumb solely by the sense of touch, and without the least hesitation or difficulty. The in-jog card is held in position by the little ginger, and is concealed by the cards on top of it.
 
 The weak point about the foregoing blind is that the last movement is a throw, or under cut, and it may be noticed that only part of the deck is actually shuffled. This objection is entirely overcome by the use of the break, which is illustrated in the following blind shuffle.
 
