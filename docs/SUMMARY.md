@@ -9,7 +9,7 @@
   * [Prepared Cards](card-table-artifice/prepared-cards.md)
   * [Confederacy](card-table-artifice/confederacy.md)
   * [Two Methods of Shuffling](card-table-artifice/two-methods-of-shuffling.md)
-  * [Primary Accomplishments](card-table-artifice/untitled.md)
+  * [Primary Accomplishments](card-table-artifice/primaty-accomplishments.md)
   * [Possibilities of the "Blind"](card-table-artifice/possibilities-of-the-blind.md)
   * [Uniformity of Action](card-table-artifice/uniformity-of-action.md)
   * [Deportment](card-table-artifice/deportment.md)
