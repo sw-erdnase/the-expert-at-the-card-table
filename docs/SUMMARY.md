@@ -46,4 +46,3 @@
   * [Bottom Dealing](card-table-artifice/bottom-dealing/README.md)
     * [Top and Bottom Dealing with One Hand](card-table-artifice/bottom-dealing/top-and-bottom-dealing-with-one-hand.md)
   * [Second Dealing](card-table-artifice/second-dealing.md)
-

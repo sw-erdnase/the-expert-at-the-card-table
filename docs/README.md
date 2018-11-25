@@ -9,4 +9,3 @@ Embracing the whole Calendar of Sleights that are Employed by the Gambler and Co
 Copyright, 1902, by S.W. Erdnase  
 Entered at Stationers' Hall. London  
 Entered according to the Act of the Parliament of Canada in the year One Thousand Nine Hundred and Two, by S.W. Erdnase, in the Office of the Minister of Agriculture.
-
