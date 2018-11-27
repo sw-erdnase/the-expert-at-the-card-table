@@ -29,7 +29,7 @@ The logo used for the user account has been created by [Tomchen1989](https://com
 To see the documentation locally - on http://localhost:4000 - use the following command:
 
 **Windows**  
-`docker run --rm --volume="%CD%/docs:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:pages jekyll serve`
+`docker run --rm --volume="%CD%:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:pages jekyll serve --source ./docs`
 
 **Linux**  
-`docker run --rm --volume="$PWD/docs:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:pages jekyll serve`
+`docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:pages jekyll serve --source ./docs`
