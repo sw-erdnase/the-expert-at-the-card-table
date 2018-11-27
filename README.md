@@ -23,3 +23,13 @@ The original book, published in 1902, is part of the Public Domain and can be ac
 The content of this project has to be considered as released under the [CC0 - Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) licence.
 
 The logo used for the user account has been created by [Tomchen1989](https://commons.wikimedia.org/wiki/User:Tomchen1989) as part of the wikimedia collection and it is licenced through the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
+
+## Development
+
+To see the documentation locally - on http://localhost:4000 - use the following command:
+
+**Windows**  
+`docker run --rm --volume="%CD%/docs:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:pages jekyll serve`
+
+**Linux**  
+`docker run --rm --volume="$PWD/docs:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:pages jekyll serve`
