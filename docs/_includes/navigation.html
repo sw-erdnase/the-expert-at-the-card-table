@@ -1,0 +1,11 @@
+<p>{{page.path}}</p>
+<p>{{page.url}}</p>
+<p>{{ page.url | replace: ".html", "" }}</p>
+<p>{{page.prev}}</p>
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.url | relative_url }}" {% if page.url == {{ item.url | relative_url }} %}class="active"{% endif %}>
+        {{ item.url | relative_url }}
+    </a>
+  {% endfor %}
+</nav>

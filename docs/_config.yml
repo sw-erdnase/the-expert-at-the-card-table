@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: The Expert at the Card Table
+plugins:
+  - jekyll-sitemap

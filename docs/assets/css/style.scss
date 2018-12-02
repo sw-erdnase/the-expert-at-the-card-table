@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav a {
+    display: block;
+}
+nav .active {
+    color: red;
+}
