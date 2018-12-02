@@ -1,7 +1,8 @@
 # Position for Shuffle
 
-The deck is held much as usual in the left palm, but more diagonally, so that the first finger from the second joint lies up against the outer end, the first joint of the little finger curled in against the inner end, the second and third fingers slightly curled in against the bottom, and the thumb resting on the top, near the outer end, about the middle. The right hand, when about to shuffle, seizes the under portion at the ends between the thumb and second ant third fingers, and the first finder rests on the upper side. (See Fig. 1.)
+The deck is held much as usual in the left palm, but more diagonally, so that the first finger from the second joint lies up against the outer end, the first joint of the little finger curled in against the inner end, the second and third fingers slightly curled in against the bottom, and the thumb resting on the top, near the outer end, about the middle. The right hand, when about to shuffle, seizes the under portion at the ends between the thumb and second ant third fingers, and the first finder rests on the upper side. \(See Fig. 1.\)
 
-![Fig. 1](../../img/fig001.svg)
+![Fig. 1](../../.gitbook/assets/fig001%20%283%29.svg)
 
 This position, and especially that of the first and little fingers of the left hand, is essential for the process of blind shuffling and stocking. The first and little fingers hold and locate the Jogs, which, in connection with the Break, the Run and the Throw, make this new mode of stocking and culling possible. The position is easy and quite natural in appearance. There is not strain on the fingers. The deck fits fairly on its side, across the palm, and the left-hand fingers are in much the same position as they would naturally take when the hand is about half closed. It is an excellent manner of holding the deck for the true shuffle, and should be strictly adhered to on all occasions.
+

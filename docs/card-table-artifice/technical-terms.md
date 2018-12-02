@@ -38,5 +38,3 @@ Many of the methods of card manipulation explained in this work originated with 
 
 **Crimp.**—To bend one of a number of cards, so that they may be distinguished and located.
 
-
-
