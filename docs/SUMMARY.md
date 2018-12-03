@@ -48,4 +48,12 @@
   * [Second Dealing](card-table-artifice/second-dealing.md)
   * [Ordinary Methods of Stocking, Locating and Securing](card-table-artifice/ordinary-methods-of-stocking-locating-and-securing.md)
   * [Stock Shuffle](card-table-artifice/stock-shuffle.md)
+  * [Erdnase System of Stock Shuffling](card-table-artifice/erdnase-system-of-stock-shuffling/README.md)
+    * [Two-Card Stock](card-table-artifice/erdnase-system-of-stock-shuffling/two-card-stock.md)
+    * [Three-Card Stock](card-table-artifice/erdnase-system-of-stock-shuffling/three-card-stock.md)
+    * [Four-Card Stock](card-table-artifice/erdnase-system-of-stock-shuffling/four-card-stock.md)
+    * [Five-Card Stock](card-table-artifice/erdnase-system-of-stock-shuffling/five-card-stock.md)
+    * [Twelve-Card Stock](card-table-artifice/erdnase-system-of-stock-shuffling/twelve-card-stock.md)
+    * [Euchre Stock](card-table-artifice/erdnase-system-of-stock-shuffling/euchre-stock.md)
+    * [Euchre Stock](card-table-artifice/erdnase-system-of-stock-shuffling/euchre-stock-1.md)
 
