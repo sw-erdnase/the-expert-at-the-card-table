@@ -5,3 +5,4 @@ For any game in which cards are dealt singly. Four desired cards on top, one on 
 The formula appears long, but much of the shuffle is a repetition, very simple, and takes but a second or two longer than the four-card stock
 
 To show the possibilities of this method, we give a fancy stock for a game of Poker that will throw four of a kind to the dealer and leave two sets of fours on the top for the draw.
+
