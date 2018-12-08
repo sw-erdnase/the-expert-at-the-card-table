@@ -61,4 +61,9 @@
     * [To Cull Three Cards, Numbers 7, 5, 9](card-table-artifice/cull-shuffling/to-cull-three-cards.md)
     * [To Cull Four Cards, Numbers 3, 6, 2, 5](card-table-artifice/cull-shuffling/to-cull-four-cards.md)
     * [To Cull Nine Cards, Numbers 5, 1, 1, 1, 3, 1, 1, 7, 1](card-table-artifice/cull-shuffling/to-cull-nine-cards.md)
+  * [The Erdnase System of Palming](card-table-artifice/the-erdnase-system-of-palming/README.md)
+    * [Top Palm. First Method](card-table-artifice/the-erdnase-system-of-palming/top-palm.-first-method.md)
+    * [Top Palm. Second Method](card-table-artifice/the-erdnase-system-of-palming/top-palm.-second-method.md)
+    * [Bottom Palm. First Method](card-table-artifice/the-erdnase-system-of-palming/bottom-palm.-first-method.md)
+    * [Bottom Palm. Second Method](card-table-artifice/the-erdnase-system-of-palming/bottom-palm.-second-method.md)
 
