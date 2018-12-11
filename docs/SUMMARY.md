@@ -74,4 +74,5 @@
     * [Erdnase Shift. One Hand](card-table-artifice/shift/erdnase-shift.-one-hand.md)
     * [Erdnase Shift. Two Hands](card-table-artifice/shift/erdnase-shift.-two-hands.md)
   * [To Ascertain the Top Cards while Riffling and Reserve Them at Bottom](card-table-artifice/to-ascertain-the-top-cards-while-riffling-and-reserve-them-at-bottom.md)
+  * [Mode of Holding the Hand](card-table-artifice/mode-of-holding-the-hand.md)
 
