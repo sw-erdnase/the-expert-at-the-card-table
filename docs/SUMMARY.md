@@ -69,4 +69,8 @@
     * [Bottom Palm When Cards are Riffled](card-table-artifice/the-erdnase-system-of-palming/bottom-palm-when-cards-are-riffled.md)
   * [To Maintain the Bottom Palm while Dealing](card-table-artifice/to-maintain-the-bottom-palm-while-dealing.md)
   * [To Hold the Location of Cut while Dealing](card-table-artifice/to-hold-the-location-of-cut-while-dealing.md)
+  * [Shift](card-table-artifice/shift/README.md)
+    * [Two-Handed Shift](card-table-artifice/shift/two-handed-shift.md)
+    * [Erdnase Shift. One Hand](card-table-artifice/shift/erdnase-shift.-one-hand.md)
+    * [Erdnase Shift. Two Hands](card-table-artifice/shift/erdnase-shift.-two-hands.md)
 
