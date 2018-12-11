@@ -66,4 +66,7 @@
     * [Top Palm. Second Method](card-table-artifice/the-erdnase-system-of-palming/top-palm.-second-method.md)
     * [Bottom Palm. First Method](card-table-artifice/the-erdnase-system-of-palming/bottom-palm.-first-method.md)
     * [Bottom Palm. Second Method](card-table-artifice/the-erdnase-system-of-palming/bottom-palm.-second-method.md)
+    * [Bottom Palm When Cards are Riffled](card-table-artifice/the-erdnase-system-of-palming/bottom-palm-when-cards-are-riffled.md)
+  * [To Maintain the Bottom Palm while Dealing](card-table-artifice/to-maintain-the-bottom-palm-while-dealing.md)
+  * [To Hold the Location of Cut while Dealing](card-table-artifice/to-hold-the-location-of-cut-while-dealing.md)
 
