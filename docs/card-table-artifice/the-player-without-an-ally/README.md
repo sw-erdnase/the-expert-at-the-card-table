@@ -1,4 +1,4 @@
-# The Player without an Ally
+# The Player Without an Ally
 
 It is the general belief that it takes two to obtain any advantage in a card game with knowing players—the dealer and the man who cuts. That this is generally true cannot be denied, but it is by no means always so. There are many ways of beating the game alone, and though the percentage in favor of the single player may be less in any given instance, it is pretty constant and quite sufficient to insure a very comfortable living to many clever people, though the card table is their sole source of revenue.
 
