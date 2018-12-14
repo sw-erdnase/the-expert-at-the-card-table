@@ -1,2 +1,6 @@
 # Dealing Too Many
 
+A favorable and perhaps the most generally used advantage is in the dealer giving himself one or two extra cards on the last round. The quantity is not noticeable when lying on the table, and as the extra cards are taken on the last round there is little time for inspection. The dealer immediately picks them up with the left hand as the deck is deposited on the table by the right. The selection is made and the discard palmed and gotten rid of as described under headline, "Skinning the Hand." When holding too many in Poker, it is preferable to palm and replace the extra cards on the deck when picking it up to deal the draw than to make the discard and throw the extra cards with it on the discard heap. The dealer palms the extra cards, lays his full hand on the table, replaces the palmed cards, deals the draw and his own draw, then makes his discard and picks up his draw.
+
+A second method of taking too many is by palming the desired number after the deal. The left hand makes the palm as the right is about to may down the deck. A still safer plan is to make the palm immediately after the cut when squaring up, and maintain the palm while dealing. This can be done perfectly and avoids the slightest hesitation or movement after the deal is finished.
+
