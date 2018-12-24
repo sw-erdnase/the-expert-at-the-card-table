@@ -85,4 +85,5 @@
     * [Crimping for the Cut](card-table-artifice/the-player-without-an-ally/crimping-for-the-cut.md)
     * [Replacing Palm When Cutting](card-table-artifice/the-player-without-an-ally/replacing-palm-when-cutting.md)
     * [The Short Deck](card-table-artifice/the-player-without-an-ally/the-short-deck.md)
+  * [Three Card Monte](card-table-artifice/three-card-monte.md)
 
