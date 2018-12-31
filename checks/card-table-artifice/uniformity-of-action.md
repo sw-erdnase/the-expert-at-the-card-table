@@ -1,0 +1,4 @@
+# Uniformity of Action
+
+THE inviolable rule of the professional is uniformity of action. Any departure from his customary manner of holding, shuffling, cutting or dealing the cards may be noticed, and is consequently avoided. The player who uses the oldfashioned hand shuffle will never resort to the table "riffle" in the same company; and vice versa. The manner of holding the deck will always be the same, whether the action is to be true or "blind." In dealing, one particular position for the left hand fingers is ever adhered to, and the action of the right hand in taking off the cards and the time or rapidity of the dealing is made as uniform as possible. In cutting the rule holds good, and the true cut is made with the same movements as the "blind." Whether the procedure is true or "blind" the same apparent action is maintained throughout.
+

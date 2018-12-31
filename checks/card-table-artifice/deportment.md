@@ -1,0 +1,3 @@
+# Deportment
+
+THE deportment of the successful card player must be as finished as his skill. A quiet, unostentatious demeanor and gentlemanly reserve are best calculated to answer his purpose. Especially the entire suppression of emotion over gains or losses, Without ability to control his feelings the "advantage player" is without advantage. Boldness and nerve are also absolutely essential. Ability in card handling does not necessarily insure success. Proficiency in target practice is not the sole qualification of the trap shooter. Many experts with the gun who can nonchalantly ring up the bull's eye in a shooting gallery could not hit the side of a barn in a duel. The greater the emergency, or the greater the stakes, the greater the nerve required.
