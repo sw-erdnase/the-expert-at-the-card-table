@@ -8,7 +8,7 @@ The reader who has prepared himself with a knowledge of the position given for h
 
 Hold the deck in the manner described for the Shuffle. Seize about half the deck from beneath with the right hand \(under cut\), draw out and shift the right hand a little inwards over packet in left hand, so that when the first card is drawn off by the left thumb it will protrude slightly over the little finger \(in-jog\). Then shuffle off the balance of the cards in the right hand on top of those in the left \(See Fig. 2.\)
 
-![Fig. 2](../../.gitbook/assets/fig002.svg)
+![Fig. 2](../../.gitbook/assets/fig002%20%281%29.svg)
 
 Then seize with the right hand all the cards beneath the in-jog card, which protrudes over the little finger of the left hand, and throw them in one packet on top. When seizing the under cards beneath the in-jog, its location is found by the right thumb solely by the sense of touch, and without the least hesitation or difficulty. The in-jog card is held in position by the little finger, and is concealed by the cards on top of it.
 

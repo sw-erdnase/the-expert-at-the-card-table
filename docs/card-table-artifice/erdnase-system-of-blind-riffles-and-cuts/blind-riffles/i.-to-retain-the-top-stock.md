@@ -2,7 +2,7 @@
 
 Upper cut about half the deck with right hand, place two packets end to end on the table in the usual position for riffling. Seize both packets at sides close to adjoining ends between the third finger and thumb of each hand, and rest the hands on the outer ends of packets. Raise the thumb corners, and at the same moment in-jog the top-card of the left-hand packet by drawing it in a little over the left thumb, with the first finger of the left hand. The first and second fingers of the left hand conceal both the jog and the action. \(See Fig. 5.\)
 
-![Fig. 5](../../.gitbook/assets/fig005.svg)
+![Fig. 5](../../../.gitbook/assets/fig005.svg)
 
 Then begin the release, and spring or riffle into each other the ends of the lower cards with both thumbs, but more rapidly with the left thumb, so that the left packet, with the exception of the top card \(which is retained on top of the left thumb\) will have been riffled in before the right thumb has released the cards of the top stock. Continue the action with the right thumb until all are released, then release last card held by the left thumb. \(See Fig. 6.\)
 
