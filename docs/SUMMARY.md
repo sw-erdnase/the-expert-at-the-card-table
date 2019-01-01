@@ -58,7 +58,7 @@
     * [Twelve-Card Stock](card-table-artifice/erdnase-system-of-stock-shuffling/twelve-card-stock.md)
     * [Euchre Stock](card-table-artifice/erdnase-system-of-stock-shuffling/euchre-stock.md)
     * [Euchre Stock](card-table-artifice/erdnase-system-of-stock-shuffling/euchre-stock-1.md)
-  * [Erdnase System of Cull Shuffling](card-table-artifice/cull-shuffling/README.md)
+  * [The Erdnase System of Cull Shuffling](card-table-artifice/cull-shuffling/README.md)
     * [To Cull Two Cards, Numbers 8, 4](card-table-artifice/cull-shuffling/to-cull-two-cards.md)
     * [To Cull Three Cards, Numbers 7, 5, 9](card-table-artifice/cull-shuffling/to-cull-three-cards.md)
     * [To Cull Four Cards, Numbers 3, 6, 2, 5](card-table-artifice/cull-shuffling/to-cull-four-cards.md)
