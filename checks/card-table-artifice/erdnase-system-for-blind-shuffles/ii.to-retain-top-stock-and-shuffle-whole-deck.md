@@ -1,8 +1,5 @@
-# II.To Retain Top Stock and Shuffle Whole Deck
+# 3. To Retain Top Stock and Shuffle Whole Deck
 
-Under cut about three-quarters of deck, in-jog first card and shuffle off. Under cut again about three-quarters of deck, forming break at in-jog \(see Fig. 3\), shuffle off to break and throw balance on top. This blind apparently shuffles the entire deck, but really leaves the top portion in the original order.
-
-![Fig. 3](../../.gitbook/assets/fig003.svg)
+UNDER cut about three-quarters of deck, in-jog first card and shuffle off. Under cut again about three-quarters of deck, forming break at in-jog (see Fig. 3), shuffle off to break and throw balance on top. This blind apparently shuffles the entire deck, but really leaves the top portion in the original order.
 
 There should be no difficulty in forming the break. The right thumb presses slightly upward on the in-jog card when seizing the under portion, and the space created is held by squeezing the ends. It should be done altogether by touch, although from the position it is in, the operator might glance at it without being noticed. It is practically impossible for a spectator to see it unless immediately behind the performer. When shuffling off to the break, the right hand holds the cards firmly and the right thumb gives the warning by the sense of touch when the break is reached. If desired, the right hand may shuffle off, quite carelessly, several cards at a time, and throw the last lot up to the break, by slightly decreasing the pressure on the ends. Above all, a uniformity of time and action must be maintained, though it is not at all essential to the blind to shuffle rapidly.
-
