@@ -1,4 +1,4 @@
-# Bottom Palm When Cards Are Riffled
+# Bottom Palm When Cards are Riffled
 
 When the cards are riffled—that is, shuffled on the table—it is impossible to make a palm in a perfectly natural manner, as there is no reason for taking the deck up into the hands before the cut. The action would appear awkward, or at least unnecessary and a waste of time. But when the company is not too fast the following plan may be used with success.
 
