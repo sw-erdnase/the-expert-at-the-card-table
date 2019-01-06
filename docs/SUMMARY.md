@@ -73,7 +73,7 @@
   * [To Hold the Location of Cut while Dealing](card-table-artifice/to-hold-the-location-of-cut-while-dealing.md)
   * [Shifts](card-table-artifice/shifts/README.md)
     * [Two-Handed Shift](card-table-artifice/shifts/two-handed-shift.md)
-    * [Erdnase Shift. One Hand](card-table-artifice/shifts/erdnase-shift.-one-hand.md)
+    * [The Erdnase Shift. One Hand](card-table-artifice/shifts/the-erdnase-shift.-one-hand.md)
     * [Erdnase Shift. Two Hands](card-table-artifice/shifts/erdnase-shift.-two-hands.md)
   * [To Ascertain the Top Cards while Riffling and Reserve Them at Bottom](card-table-artifice/to-ascertain-the-top-cards-while-riffling-and-reserve-them-at-bottom.md)
   * [Mode of Holding the Hand](card-table-artifice/mode-of-holding-the-hand.md)
