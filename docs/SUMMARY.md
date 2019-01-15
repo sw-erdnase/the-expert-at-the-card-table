@@ -89,4 +89,11 @@
     * [The Short Deck](card-table-artifice/the-player-without-an-ally/the-short-deck.md)
   * [Three Card Monte](card-table-artifice/three-card-monte/README.md)
     * [Mexican Three Card Monte](card-table-artifice/three-card-monte/mexican-three-card-monte.md)
+* [Legerdemain](legerdemain/README.md)
+  * [Shifts](legerdemain/shifts/README.md)
+    * [Single Handed Shift](legerdemain/shifts/single-handed-shift.md)
+    * [The Longitudinal Shift](legerdemain/shifts/the-longitudinal-shift.md)
+    * [The Open Shift](legerdemain/shifts/the-open-shift.md)
+    * [The S.W.E. Shift](legerdemain/shifts/the-s.w.e.-shift.md)
+    * [The Diagonal Palm-Shift](legerdemain/shifts/the-diagonal-palm-shift.md)
 
