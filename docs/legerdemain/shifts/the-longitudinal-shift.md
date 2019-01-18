@@ -1,2 +1,12 @@
 # The Longitudinal Shift
 
+This shift, for which we have to thank no one, is given a very long name, but the reader who is interested sufficiently to practice the process, will find it a very short shift and comparatively an easy one.
+
+Hold the deck in the left hand, face down, first joint of thumb at middle of one side, first joint of second finger, and second joint of third finger, at opposite side, and the lower corner of the deck fitting in between the third and little fingers, at the base of little finger, the first finger curled up against the bottom. Now bring the right hand over; second, third and little fingers at outer end, first finger curled up on top, thumb at inner end. Separate the deck with the right thumb, at the inner end only, about half an inch, and press the third joint of the little finger in between the corners of the two packets to be shuffled. \(See Fig. 67.\) Now the deck is ready for the shift, but the right hand may be withdrawn without disclosing the break at the inner corner, or the fact that the little finger runs between the packets. The left thumb and finger hold the packets firmly together and the deck could not have a more innocent appearance.
+
+To make the shift, bring the right thumb against the side of the first finger, straighten out the first finger, press the end of the lower packet in against the left little finger and down against the curled up first finger, with the four right hand fingers; and with the left little finger and thumb draw off the upper packet towards the person \(see Fig. 68\), and as the lower packet springs into the right palm bring the upper packet back underneath.
+
+The right thumb takes no part in the shift, and a favorable feature of the operation is that it may be performed without the right hand appearing to be used at all. The right fingers may be held almost straight, and the palm well away from the deck, the hand being slightly closed as the lower packet springs up. It can be made with practically no noise, and the action is well covered.
+
+If desired this shift can be made with almost the whole deck exposed, by employing right second and third fingers only at end, and keeping first finger curled up on top. In this case the right thumb tip catches the end of the lower packet as it springs up.
+
