@@ -96,4 +96,6 @@
     * [The Open Shift](legerdemain/shifts/the-open-shift.md)
     * [The S.W.E. Shift](legerdemain/shifts/the-s.w.e.-shift.md)
     * [The Diagonal Palm-Shift](legerdemain/shifts/the-diagonal-palm-shift.md)
+  * [The Blind Shuffle for Securing Selected Card](legerdemain/the-blind-shuffle-for-securing-selected-card.md)
+  * [Forcing](legerdemain/forcing.md)
 

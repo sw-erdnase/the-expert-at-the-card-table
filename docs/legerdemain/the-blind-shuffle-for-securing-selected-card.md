@@ -1,0 +1,8 @@
+# The Blind Shuffle for Securing Selected Card
+
+Hold the deck across the left hand and when selected card is inserted, form break over it with left little finger close to side corner. Now seize the deck by the ends from above with the right thumb and second finger, and close to right side corners; the right thumb taking up the break at the end; and with the left thumb and fingers turn the deck down on its side into the left palm in the position given for blind-shuffling, the right hand remaining stationary, the thumb and finger being the pivots, as it were, allowing the deck to turn, and the right thumb still holding the break. The action appears quite natural, and enables the thumb to hold the break without moving. Immediately being the shuffle. Under-cut to about half portion above break, shuffle off to break, in-jog first card and shuffle off. Then under-cut to in-jog and shuffle off. This action leavers the selected card at the bottom. Square up, palm bottom card in left hand and pass deck to spectator to shuffle.
+
+In making the bottom palm it matters little whether one or several cards are palmed, and the action is quicker if not particular about the number.
+
+Of course the selected card may be brought to the top just as easily, as an understanding of the "System of Blind Shuffles" makes clear. The only difference in the foregoing action would be to job the second card instead of the first when the break is reached, and then under cut to the jog and throw on top, instead of shuffling off. But we consider the left hand work, or bottom palming, far superior given in the first part of the book will be found instantaneous, undetectable, and up to the present unknown and consequently not suspected.
+
