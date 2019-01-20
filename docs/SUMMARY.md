@@ -98,4 +98,7 @@
     * [The Diagonal Palm-Shift](legerdemain/shifts/the-diagonal-palm-shift.md)
   * [The Blind Shuffle for Securing Selected Card](legerdemain/the-blind-shuffle-for-securing-selected-card.md)
   * [Forcing](legerdemain/forcing.md)
+  * [Palming](legerdemain/palming/README.md)
+    * [The Back Palm](legerdemain/palming/the-back-palm.md)
+    * [Untitled](legerdemain/palming/untitled.md)
 
