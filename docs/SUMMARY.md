@@ -100,5 +100,9 @@
   * [Forcing](legerdemain/forcing.md)
   * [Palming](legerdemain/palming/README.md)
     * [The Back Palm](legerdemain/palming/the-back-palm.md)
-    * [Untitled](legerdemain/palming/untitled.md)
+  * [Changes](legerdemain/untitled/README.md)
+    * [The Top Change](legerdemain/untitled/the-top-change.md)
+    * [The Bottom Change](legerdemain/untitled/the-bottom-change.md)
+    * [The Palm Change](legerdemain/untitled/the-palm-change.md)
+    * [The Double-Palm Change](legerdemain/untitled/the-double-palm-change.md)
 
