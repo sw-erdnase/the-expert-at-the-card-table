@@ -105,4 +105,11 @@
     * [The Bottom Change](legerdemain/untitled/the-bottom-change.md)
     * [The Palm Change](legerdemain/untitled/the-palm-change.md)
     * [The Double-Palm Change](legerdemain/untitled/the-double-palm-change.md)
+  * [Transformations. Two Hands](legerdemain/transformations.-two-hands/README.md)
+    * [First Method](legerdemain/transformations.-two-hands/first-method.md)
+    * [Second Method](legerdemain/transformations.-two-hands/second-method.md)
+    * [Third Method](legerdemain/transformations.-two-hands/third-method.md)
+    * [Fourth Method](legerdemain/transformations.-two-hands/fourth-method.md)
+    * [Fifth Method](legerdemain/transformations.-two-hands/fifth-method.md)
+    * [Sixth Method](legerdemain/transformations.-two-hands/sixth-method.md)
 
