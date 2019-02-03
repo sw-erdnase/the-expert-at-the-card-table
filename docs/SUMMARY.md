@@ -115,4 +115,10 @@
   * [Transformations. One Hand](legerdemain/transformations.-one-hand/README.md)
     * [First Method](legerdemain/transformations.-one-hand/first-method.md)
     * [Second Method](legerdemain/transformations.-one-hand/second-method.md)
+  * [Blind Shuffles, Retaining Entire Order](legerdemain/blind-shuffles-retaining-entire-order/README.md)
+    * [First Method](legerdemain/blind-shuffles-retaining-entire-order/first-method.md)
+    * [Second Method](legerdemain/blind-shuffles-retaining-entire-order/second-method.md)
+    * [Third Method](legerdemain/blind-shuffles-retaining-entire-order/third-method.md)
+    * [Fourth Method](legerdemain/blind-shuffles-retaining-entire-order/fourth-method.md)
+    * [Fifth Method](legerdemain/blind-shuffles-retaining-entire-order/fifth-method.md)
 
