@@ -112,4 +112,7 @@
     * [Fourth Method](legerdemain/transformations.-two-hands/fourth-method.md)
     * [Fifth Method](legerdemain/transformations.-two-hands/fifth-method.md)
     * [Sixth Method](legerdemain/transformations.-two-hands/sixth-method.md)
+  * [Transformations. One Hand](legerdemain/transformations.-one-hand/README.md)
+    * [First Method](legerdemain/transformations.-one-hand/first-method.md)
+    * [Second Method](legerdemain/transformations.-one-hand/second-method.md)
 
