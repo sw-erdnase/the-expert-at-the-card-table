@@ -1,2 +1,8 @@
 # Fourth Method
 
+This is a very barefaced blind, simple, extremely easy, and surprisingly deceptive when cleverly performed.
+
+Rest the deck on its side in the left hand in the usual position for shuffling, but hold the first finger against and along the end. Under cut about half the deck with the right hand, the first finger on the top side, and make the ordinary movement to interlock or force the right hand cards down among those in the left hand, bringing the sides together for that purpose. Allow a few of the cards from the top of the right hand packet to drop down on top of the other packet, but prevent them from going quite to the left palm with the left thumb. Now keep up a constant lateral movement with the right hand, shifting the packet rapidly lengthwise about half an inch each way, as though forcing the two packets to interlace, but really dropping the upper cards on top of the left hand packet, by holding the right hand packet slightly diagonally over the lower one, so that the inner corner of the right hand packet is just over the side of the lower one. Drop the top cards over in this manner until all are apparently interlocket about half way or more, then strike them on the top side with the fingers held flatly, driving them down even, and square up the deck.
+
+The first finger held against the end and the first or top cards of the right hand packet, going over immediately as the sides are brought together, effectually conceal the ruse. If the process of actually interlocking the cards is tried it will be seen how perfectly the action can be imitated. An occasional cut tends to increase the deception.
+
