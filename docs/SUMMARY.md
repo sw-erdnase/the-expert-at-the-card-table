@@ -121,4 +121,9 @@
     * [Third Method](legerdemain/blind-shuffles-retaining-entire-order/third-method.md)
     * [Fourth Method](legerdemain/blind-shuffles-retaining-entire-order/fourth-method.md)
     * [Fifth Method](legerdemain/blind-shuffles-retaining-entire-order/fifth-method.md)
+  * [Methods for Determining a Card Thought of](legerdemain/methods-for-determining-a-card-thought-of/README.md)
+    * [A](legerdemain/methods-for-determining-a-card-thought-of/a.md)
+    * [B](legerdemain/methods-for-determining-a-card-thought-of/b.md)
+    * [C](legerdemain/methods-for-determining-a-card-thought-of/c.md)
+    * [D](legerdemain/methods-for-determining-a-card-thought-of/d.md)
 
