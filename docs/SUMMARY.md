@@ -126,4 +126,6 @@
     * [B](legerdemain/methods-for-determining-a-card-thought-of/b.md)
     * [C](legerdemain/methods-for-determining-a-card-thought-of/c.md)
     * [D](legerdemain/methods-for-determining-a-card-thought-of/d.md)
+  * [To Get Sight of Selected Card](legerdemain/to-get-sight-of-selected-card.md)
+  * [The Slide](legerdemain/the-slide.md)
 
