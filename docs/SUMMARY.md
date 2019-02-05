@@ -128,4 +128,9 @@
     * [D](legerdemain/methods-for-determining-a-card-thought-of/d.md)
   * [To Get Sight of Selected Card](legerdemain/to-get-sight-of-selected-card.md)
   * [The Slide](legerdemain/the-slide.md)
+  * [Favorite Sleights for Terminating Tricks](legerdemain/favorite-sleights-for-terminating-tricks/README.md)
+    * [Catching Two Cards at Fingertips](legerdemain/favorite-sleights-for-terminating-tricks/catching-two-cards-at-fingertips.md)
+    * [Leaving Selected Card in Hand of Spectator](legerdemain/favorite-sleights-for-terminating-tricks/leaving-selected-card-in-hand-of-spectator.md)
+    * [The Revolution](legerdemain/favorite-sleights-for-terminating-tricks/the-revolution.md)
+    * [Cards Raising from the Hand](legerdemain/favorite-sleights-for-terminating-tricks/cards-raising-from-the-hand.md)
 
