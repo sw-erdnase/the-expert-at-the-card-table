@@ -1,4 +1,4 @@
-# The S.W.E. Shift
+# The S. W. E. Shift
 
 We have not dubbed the following process with our initials because we wish to appear "big on the bills," but merely to give it a name. Still, we must confess to some satisfaction in having originated what we believe to be the most rapid, and, for certain purposes, the most perfect shift ever devised. The method is practically the same as the "Longitudinal," but as the deck is held crosswise it is much more rapid. The position is open and natural, and the shift possesses many advantages for conjuring purposes.
 
